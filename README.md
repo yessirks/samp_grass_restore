@@ -2,8 +2,6 @@
 
 Brings the **grass and plants back in SA-MP**. A tiny `.asi` plugin, nothing else changes.
 
-Made by **yessirks**.
-
 ## Install
 
 1. Download `GrassRestore.asi` from the [latest release](https://github.com/yessirks/samp_grass_restore/releases/latest).
